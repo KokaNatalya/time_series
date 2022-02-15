@@ -1,8 +1,16 @@
 # Time series prediction
-Models for prediction sales. My diploma project
+ML models for prediction sales by aggregated product groups. My diploma project. The main models are: holtwinters ExponentialSmoothing, SARIMA.
 
-### Data - history of sales of 3 product cathegories for 3-4 years
+### Data
+History of sales of 3 product cathegories for 3-4 years
 
 
 ### Libraries
-
+- pandas,
+- numpy,
+- sklearn
+- scipy
+- matplotlib.pyplot 
+- statsmodels
+- statsmodels.api
+- pmdarima
