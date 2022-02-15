@@ -8,9 +8,9 @@ History of sales of 3 product cathegories for 3-4 years
 ### Libraries
 - pandas,
 - numpy,
-- sklearn
-- scipy
-- matplotlib.pyplot 
-- statsmodels
-- statsmodels.api
+- sklearn,
+- scipy,
+- matplotlib.pyplot,
+- statsmodels,
+- statsmodels.api,
 - pmdarima
